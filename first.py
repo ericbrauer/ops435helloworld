@@ -6,7 +6,7 @@ my first program.
 '''
 
 print("Hello world!")
-print("Welcome to Winter 2023")
+print("Welcome OPS445 NAA! Hope you have a good Thursday")
 
 x = 8
 y = 4.0
