@@ -6,6 +6,7 @@ my first program.
 '''
 
 print("Hello world!")
+print("Welcome to Winter 2023")
 
 x = 8
 y = 4.0
